@@ -1,0 +1,21 @@
+.chart{
+    background-color: lightyellow;
+}
+
+.x-axis{
+    font-weight: medium;
+}
+
+.y-axis{
+    font-weight: medium;
+}
+
+.axisLabel{
+    font-weight: medium;
+}
+.bars{
+    fill: red;
+}
+#updates{
+    background-color: white;
+}
